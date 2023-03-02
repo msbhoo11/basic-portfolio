@@ -1,0 +1,101 @@
+body{background-color:#E3FDFD;
+margin:0;
+text-align: center;
+font-family: sans-serif;}
+.head{
+    margin: top 50px;;
+    position: absolute;
+    top: 150px;
+    left: 650px;
+    font-family: 'Kalam', cursive;
+    font-size: 2rem;
+    color: #66BFBF;
+}
+.para{
+    position: absolute;
+    top: 230px;
+    left: 670px;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 1rem;
+    color: #66BFBF;
+    font-weight: normal;
+
+}
+h3{
+    color:#11999E;
+}
+a{
+   
+        color:#11999E;
+    
+}
+.bloo{
+    color: #66BFBF;
+    font-weight: normal;
+}
+.cloud1{
+    position: absolute;
+    right: 525px;
+    top: 50px;
+}
+.mountain{
+    position: relative;
+    top: 290px;
+}
+.cloud2{
+    position: absolute;
+    top:300px;
+}
+
+.top-container{
+    background-color:#CBF1F5;
+    height: 600px;
+    position: relative;
+    padding: 50px;
+    }
+.my-image{
+    height: 200px;
+    width: 150px;
+    border-radius: 50%;
+}
+.camera{
+    height: 200px;
+    border-radius: 80%;
+    width: 15%;
+    height: 15%;
+    float: left;
+    padding: 20px;
+}
+.cooking{
+    height: 200px;
+    border-radius: 80%;
+    width: 15%;
+    height: 15%;
+    float: right;
+   padding: 20px;
+}
+.skill-row{
+    width: 50%;
+   margin: 100px auto 100px auto;
+   text-align: left;
+}
+.s1{
+    text-align: right;
+}
+
+
+hr{border-style: dotted none none none;
+    border-color: grey;
+    border-width: 4px;
+     width: 5%;
+    }
+     
+ .contact-me{
+    border: 5px ;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+ }
+ .btn {background-image: linear-gradient(#11cdd4, #11999e);
+color: aquamarine;}
+     
